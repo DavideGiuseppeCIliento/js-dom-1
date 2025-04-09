@@ -1,5 +1,9 @@
-const lamp = document.getElementById("lampadina");
+// const lamp = document.getElementById("lampadina");
+// console.log(lamp);
+// lamp.addEventListener("click", function () {
+//   lamp.src = "assets/img/yellow_lamp.png";
+// });
 
-lamp.addEventListener("click", function () {
-  lamp.classList.toggle("");
-});
+const lamp = document.getElementById("lampadina");
+console.log(lamp);
+lamp.addEventListener("click", function () {});
